@@ -3,6 +3,7 @@
 
 
 use in your c-shell
+
 ###Usage: ./substitution key
 
 the key must contain 26 alphabetic characters. None of them may repeat.
